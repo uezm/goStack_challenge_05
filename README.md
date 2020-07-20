@@ -6,7 +6,7 @@
 
 <br>
 
-![Work](https://images.unsplash.com/photo-1594729095022-e2f6d2eece9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+![Work](https://images.unsplash.com/photo-1594729095022-e2f6d2eece9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 ## :satellite: Tecnologias 
 Esse projeto foi desenvolvido com as seguintes tecnologias: <br>
